@@ -1,0 +1,11 @@
+{
+  "sources": [
+    "@example_channel_one",
+    "@example_channel_two"
+  ],
+  "filters": {
+    "collect_only_active_commenters": true,
+    "skip_duplicates": true
+  },
+  "workflow_note": "После сбора базу можно использовать для сегментации, ручной аналитики и сценариев коммуникации."
+}
