@@ -39,6 +39,14 @@
 4. Запустите задачу и контролируйте лог.
 5. Передайте итоговую базу в модули коммуникации или дополнительного парсинга.
 
+## Куда лучше вести собранную базу
+
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если после сбора нужен прямой outreach;
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram), если база пойдет в AI-коммуникацию и прогрев;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если комментарии используются как источник роста групп и каналов;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно заранее подготовить инфраструктуру под обработку базы;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если вы отслеживаете парсинг и последующие сценарии из одного места.
+
 ## Как устроен сценарий
 
 ### Источники
@@ -75,6 +83,10 @@
 - [Поиск каналов и групп](https://github.com/Deskgram-2/telegram-channel-search-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram)
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
