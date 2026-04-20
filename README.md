@@ -1,13 +1,13 @@
-# Сбор аудитории из комментариев Telegram через Deskgram 2
+﻿# Сбор аудитории из комментариев Telegram через Deskgram 2
 
 Сбор пользователей из комментариев в Deskgram 2 нужен для сценариев, где важно найти живую аудиторию, уже проявившую активность под постами. Это полезно для исследовательских задач, сегментации, дальнейшей коммуникации и построения более точной базы получателей.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollecting_from_comments&lang=ru)
 
 
 
@@ -131,3 +131,4 @@
 ### Можно ли использовать эти данные дальше в рассылке?
 
 Да. Это один из самых логичных следующих шагов.
+
